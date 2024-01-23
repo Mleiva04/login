@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "556118903038",
+    "project_id": "login-774d4",
+    "storage_bucket": "login-774d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556118903038:android:289a4f782f26924d10fdaf",
+        "android_client_info": {
+          "package_name": "com.miguelangelleiva.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "556118903038-t2sgne3qd4ojuft35qv4e87no4knngpp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF7D2t53XYwf9XVnpGGYcuhLKrYuvUyDQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "556118903038-t2sgne3qd4ojuft35qv4e87no4knngpp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
