@@ -13,7 +13,7 @@
         android:layout_marginTop="50dp"
         android:ems="10"
         android:hint="Email"
-        android:inputType="text"
+        android:inputType="textEmailAddress"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
@@ -34,7 +34,7 @@
         android:id="@+id/button"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
-        android:onClick="añadir"
+        android:onClick="add"
         android:text="AÑADIR"
         app:layout_constraintEnd_toEndOf="@+id/etPass"
         app:layout_constraintStart_toStartOf="@+id/etPass"
